@@ -1,0 +1,6 @@
+.banner {
+  background-image: url(/ban.jpg);
+  height: 90vh;
+  padding: 10%;
+  background-size: cover;
+}
